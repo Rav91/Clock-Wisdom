@@ -14,5 +14,5 @@
 ## Use Stories or Use Cases
 ## References Used
 ## Authors
-rav91			-	Ravid Rahman
-tislam35	-	Tohidul Islam
+- rav91			-	Ravid Rahman
+- tislam35	-	Tohidul Islam
