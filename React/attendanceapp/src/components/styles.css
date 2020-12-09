@@ -1,0 +1,81 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rebeccapurple;
+    min-height: 100vh;
+}
+
+#ourLogo {
+    top: 100px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 75px;
+}
+
+.login, .loginUser, .addingWorker {
+    text-align: center;
+    border: 5px solid black;
+    background: white;
+    padding: 50px 25px 75px 25px;
+}
+
+.workerDash, .managerDash {
+    border: 5px solid black;
+    background: white;
+    padding: 75px;
+}
+
+.react-calendar {
+    display: none;
+    width: 230px;
+    max-width: 100%;
+    position: absolute;
+    left: 929px;
+    top: 258px;
+    background: wheat;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.500em;
+}
+
+.react-calendar :hover {
+    cursor: pointer;
+}
+
+.react-calendar__tile--active {
+    background: #e70220;
+    color: white;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+    font-size: 16px;
+    color: blue;
+}
+
+.react-calendar__navigation__arrow {
+    display: none;
+}
+
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+    background: red;
+}
+
+.request {
+    position: absolute;
+    left: 929px;
+    top: 466px;
+    display: none;
+}
+
+.day_off {
+    display: none;
+    width: 230px;
+    max-width: 100%;
+    position: absolute;
+    left: 1100px;
+    top: 310px;
+}
