@@ -12,6 +12,9 @@
 ## Data Model
 ## Site Map
 ## Use Stories or Use Cases
+1. A user must first log in as either a manager or a worker
+2. A manager can add new worker, approve/deny sick days, pay workers, set worker salaries, and view information by daily details, weekly details, and monthly details
+3. A worker can clock-in, clock-out, start lunch, end lunch, calculate their salary, request the current day off, schedule day offs and view day off status
 ## References Used
 ## Authors
 - rav91			-	Ravid Rahman
