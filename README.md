@@ -1,5 +1,6 @@
 # Clock Wisdom
 ## Overview
+Many field workers do not have an efficient way to keep track of their working time. This application allows employees to clock in, clock out, request/schedule days off and view their working hours and how much they've made so far. A manager can use this application to add and keep track of workers salary information.
 ## Getting Started
 1) Clone the repoistory
 2) Open a new terminal navigate Flask/attendanceApp
@@ -19,4 +20,4 @@
 ## Authors
 - rav91			-	Ravid Rahman
 - tislam35	-	Tohidul Islam
-- CChariot
+- CChariot  - Lihan Zhan
