@@ -80,6 +80,8 @@ For the manager, we didn't go into detail, we used department name for the manag
 
 ## Site Map
 
+![](sitemap)
+
 ## Use Stories or Use Cases
 
 1. A user must first log in as either a manager or a worker
