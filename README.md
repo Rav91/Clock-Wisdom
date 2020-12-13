@@ -80,7 +80,7 @@ For the manager, we didn't go into detail, we used department name for the manag
 
 ## Site Map
 
-![](sitemap)
+![](sitemap.PNG)
 
 ## Use Stories or Use Cases
 
