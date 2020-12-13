@@ -86,11 +86,25 @@ For the manager, we didn't go into detail, we used department name for the manag
 
 ![](sitemap.PNG)
 
-## Use Stories or Use Cases
+## User Stories
 
-1. A user must first log in as either a manager or a worker
-2. A manager can add new worker, approve/deny sick days, pay workers, set worker salaries, and view information by daily details, weekly details, and monthly details
-3. A worker can clock-in, clock-out, start lunch, end lunch, calculate their salary, request the current day off, schedule day offs and view day off status
+1. As a user, I can go to the manager login screen or the worker login screen.
+2. As a manager, I can log into my account at the manager login page.
+3. As a manager, I can view all the workers in my department.
+4. As a manager, I can add a worker to the system.
+5. As a manager, I can set a worker's salary.
+6. As a manager, I can approve or deny a day-off request.
+7. As a manager, I can pay my workers.
+8. As a manager, I can view the daily, weekly, and monthly details for each worker.
+9. As a manager, I can see what days a worker has off.
+10. As a manager, I can remove a worker from the system.
+11. As a worker, I can log into my account at the worker login page.
+12. As a worker, I can view my current day's time worked.
+13. As a worker, I can calculate how much I will be paid for the day.
+14. As a worker, I can clock-in, clock-out, start lunch, and end lunch.
+15. As a worker, I can request days off.
+16. As a worker, I can view the status of my day-off requests.
+17. As a worker, I can reset the current day.
 
 ## References Used
 
