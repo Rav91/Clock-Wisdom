@@ -40,6 +40,30 @@ React
 
 ## References Used
 
+https://blog.alexdevero.com/react-express-sqlite-app/ (Project structure ideas)
+
+https://stackoverflow.com/questions/13192643/is-it-possible-to-access-an-sqlite-database-from-javascript (Connecting Sqlite from HTML components)
+
+https://flask.palletsprojects.com/en/1.1.x/errorhandling/ (General Flask error handling)
+
+https://stackoverflow.com/questions/21689364/method-not-allowed-flask-error-405/21689599 (Flask Method Not Allowed error)
+
+https://www.fullstackpython.com/flask-json-jsonify-examples.html (Jsonify fullstack tutorial)
+
+https://cloud.google.com/storage/docs/json_api/v1/status-codes (Jsonify error handling)
+
+https://www.programiz.com/python-programming/time (Time module in Python)
+
+https://flask.palletsprojects.com/en/1.1.x/patterns/sqlite3/ (Source to start Sqlite)
+
+https://stackoverflow.com/questions/25371636/how-to-get-sqlite-result-error-codes-in-python (Sqlite error handling)
+
+https://www.sqlitetutorial.net/sqlite-python/delete/ (Deleting data from Sqlite)
+
+https://click.palletsprojects.com/en/7.x/ (Click Python documentation)
+
+https://stackoverflow.com/questions/21692387/jinja2-exception-handling (Jinja2 error handling)
+
 ## Authors
 
 - rav91 - Ravid Rahman
