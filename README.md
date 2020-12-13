@@ -17,13 +17,9 @@ Many field workers do not have an efficient way to keep track of their working t
 ## Requirements
 
 Backend Technologies:
-click
 Flask
 SQLAlchemy
-itsdangerous
 Jinja2
-MarkupSafe
-Werkzeug
 
 Frontend Technologies:
 React
