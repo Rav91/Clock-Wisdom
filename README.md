@@ -26,51 +26,59 @@ React
 
 ## Data Model
 
+```
 Worker Detail {
-id = 123,
-name = Ben,
-department = Subway,
-salary_hour = $20,
-salary = $400,
-salary_paid = $285,
-clockin = 2020-12-07 8:17:11,
-clockout = 2020-12-07 19:17:15,
-lunchin = 2020-12-07 15:17:14,
-lunchout = 2020-12-07 16:08:23,
-dayoff = "Sick",
+    id = 123,
+    name = Ben,
+    department = Subway,
+    salary_hour = $20,
+    salary = $400,
+    salary_paid = $285,
+    clockin = 2020-12-07 8:17:11,
+    clockout = 2020-12-07 19:17:15,
+    lunchin = 2020-12-07 15:17:14,
+    lunchout = 2020-12-07 16:08:23,
+    dayoff = "Sick",
 }
+```
 
+```
 Worker Weekly Detail{
-id = 123,
-date = 2020-12-07,
-name = Ben,
-department = subway,
-salary_hour = 20,
-salary = $400,
-salary_paid = $285,
-time = 32.047 hrs,
-dayoff_approve = Yes,
-dayoff_reject = No
+    id = 123,
+    date = 2020-12-07,
+    name = Ben,
+    department = subway,
+    salary_hour = 20,
+    salary = $400,
+    salary_paid = $285,
+    time = 32.047 hrs,
+    dayoff_approve = Yes,
+    dayoff_reject = No
 }
+```
 
+```
 Schedule Day Off{
-id = 123,
-date = 2020-12-07,
-name = Ben,
-department = subway,
-dayoff = "Sick, please",
-dayoff_approve = Yes,
-dayoff_reject = No
+    id = 123,
+    date = 2020-12-07,
+    name = Ben,
+    department = subway,
+    dayoff = "Sick, please",
+    dayoff_approve = Yes,
+    dayoff_reject = No
 }
+```
 
+```
 Worker Day Off{
-id = 123,
-date = 2020-12-07,
-name = Ben,
-department = subway,
-workingday = Yes,
-dayoff = No
+    id = 123,
+    date = 2020-12-07,
+    name = Ben,
+    department = subway,
+    workingday = Yes,
+    dayoff = No
 }
+```
 
 For the manager, we didn't go into detail, we used department name for the manager account, and the manager of that department is responsible for all workers under that department.
 
